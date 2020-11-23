@@ -5,6 +5,11 @@ Wumpus World
 <p align="center">A wumpus world agent developed for a homework in the discipline of artificial intelligence
 </p>
 
+## 📋 Features
+
+- **Random** — Module that implements pseudo-random number generators for Python
+- **Sys** — Module that provides low level access to the system
+
 ## 🚀 Getting started with the app
 
 1. Clone this repo using `git clone https://github.com/victor3r/wumpus-world.git`
